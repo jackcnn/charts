@@ -72,7 +72,7 @@ const chart = new Chart({
     height: 250
 })
 ```
-
+hahahah
 If you want to contribute:
 
 1. Clone this repo.
